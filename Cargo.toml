@@ -1,0 +1,9 @@
+[package]
+name = "open_dir"
+version = "0.1.0"
+authors = ["Luke Krikorian <lukekrikorian@gmail.com>"]
+
+[dependencies]
+urlencoding = "1.0.0"
+colored = "1.6"
+webbrowser = "0.3.1"
